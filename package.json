@@ -1,0 +1,18 @@
+{
+  "name": "interconnect3d-bluesky-bot",
+  "version": "1.0.0",
+  "description": "Bluesky bot for reposting 3D assets and marketplace content",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@atproto/api": "^0.12.29",
+    "dotenv": "^16.4.5"
+  },
+  "keywords": ["bluesky", "bot", "3d", "marketplace"],
+  "author": "Interconnect3D",
+  "license": "MIT"
+}
