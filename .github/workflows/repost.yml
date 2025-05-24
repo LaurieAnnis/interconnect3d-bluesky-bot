@@ -1,9 +1,9 @@
 name: "Repost to Bluesky"
 
 on:
-  # Run every 2 hours
+  # Run every 1 hour
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '0 */1 * * *'
   
   # Allow manual triggering for testing
   workflow_dispatch:
