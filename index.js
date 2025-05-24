@@ -13,6 +13,8 @@ const HASHTAGS_TO_MONITOR = [
   '#3DModels',
   '#GameAssets',
   '#UnityAssets',
+  '#UnrealAssets',
+  '#FABAssets',
   '#BlenderAssets'
 ];
 
